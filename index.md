@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'KIAPI SW Repository for 3Tier'
 description: null
 image: null
 author: null
