@@ -1,17 +1,17 @@
 # site settings
-title: (과-26) 3Tier통합검증
-subtitle: 자율주행기술개발혁신사업
+title: 3-Tier
+subtitle: Korea Autonomous Driving Development Innovation(R&D)
 email: kiapisp2501@gmail.com
 description: This page is the public SW repository<br /> for the "3Tier" research and development project.
 baseurl: "/3Tier" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+url: https://www.kiapi.or.kr/index.html # the base hostname & protocol for your site
+author: Korea Intelligent Automotive Parts Promotion Institute
+street_address: 201 Gukguk Industrial Complex, Guji-myeon, Dalseong-gun, Daegu
+city: Daegu
+state: Daegu
+zip_code: 43011
+country: Republic of Korea
+phone: (053) 670-7800
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
